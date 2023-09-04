@@ -8,7 +8,7 @@ To find data through API calls using diffrent conditons and filters
 ### (your step 2) - Working with Foursquare & Yelp
 
 ## Results
-qith Foursquare we can use better API calls, getting more deailed data.
+W Foursquare we can use better API calls, getting more deailed data.
 
 ## Challenges 
 It was difficlut & time consuming to work with Yelp for some reason.
