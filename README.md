@@ -1,17 +1,17 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+To find data through API calls using diffrent conditons and filters
 
 ## Process
-### (your step 1)
-### (your step 2)
+### (your step 1) - Working with CityBikes
+### (your step 2) - Working with Foursquare & Yelp
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+qith Foursquare we can use better API calls, getting more deailed data.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+It was difficlut & time consuming to work with Yelp for some reason.
 
 ## Future Goals
-(what would you do if you had more time?)
+I will be using more conditions to get variety of data. 
